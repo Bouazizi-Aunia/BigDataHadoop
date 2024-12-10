@@ -9,7 +9,7 @@ You can find twitter as well as reting dictionary data into the data folder.
 Follow the below steps for successfulling this project.
 
 ```
-# Create directory in HDFS to store csv and rating dictionary file
+# Create directory in HDFS to store csv and rating dictioy file
 
 $ hadoop fs -mkdir /demion_analysis
 
